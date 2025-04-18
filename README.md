@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast, full-time learner, and pa
 Whether it’s building a cool website, brainstorming creative ideas, or working on real-world tech problems — I’m always up for collaboration and learning.
 
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/rishi-poddar/)**  
-- 📬 Email: *(your.email@example.com)*  
+- 📬 Email: *rishipoddarr@gmail.com*  
 - 💬 Ask me about tech, creativity, college life, or your next big idea!
 
 ---
