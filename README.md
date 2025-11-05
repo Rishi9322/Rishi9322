@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast, full-time learner, and pa
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 **Second Year BSc IT** student with a passion for technology and problem-solving.
+- 🎓 **Third Year BSc IT** student with a passion for technology and problem-solving.
 - 💻 Currently working on a **Canteen Management System** — a full-stack web application built with HTML, CSS, JS, PHP & MySQL.
 - 🎯 I enjoy both **front-end design** and **back-end logic**, and love making things that are both functional and beautiful.
 - 📚 Constantly learning and leveling up my skills — currently brushing up on **Java** and exploring **data structures in C++**.
