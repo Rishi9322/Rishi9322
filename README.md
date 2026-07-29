@@ -15,6 +15,16 @@
 
 <br/><br/>
 
+<a href="https://linkedin.com/in/rishi-poddar">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:rishipoddarr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_hello-0d1117?style=for-the-badge&logo=gmail&logoColor=06B6D4" alt="Email" />
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Rishi9322&style=flat-square&color=8B5CF6&label=PROFILE+VISITS" alt="profile views" />
 
 </div>
