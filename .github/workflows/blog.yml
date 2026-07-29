@@ -1,0 +1,35 @@
+name: Latest Blog Posts
+
+# Pulls your newest posts into the README between the
+# BLOG-POST-LIST markers. Enable by setting `feed_list` to your
+# deployed portfolio's RSS feed (your Next.js app exposes /feed.xml).
+
+on:
+  # Schedule disabled until feed_list points at a real RSS URL —
+  # re-enable by uncommenting once your portfolio is deployed:
+  # schedule:
+  #   # twice a day
+  #   - cron: "0 2,14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update blog post list
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with your live portfolio feed URL once deployed,
+          # e.g. https://your-portfolio-domain.com/feed.xml
+          feed_list: "https://YOUR-PORTFOLIO-DOMAIN/feed.xml"
+          max_post_count: 4
+          template: "<sub>📝 <a href='$url'>$title</a> · $date</sub><br/>"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: update latest blog posts"
