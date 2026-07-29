@@ -303,16 +303,7 @@ event stories, product UIs: it's all the same discipline. Notice more. Show less
 
 <br/><br/>
 
-<!--
-  SPOTIFY — final step: deploy novatorem to Vercel (see SETUP.md § Spotify),
-  then replace YOUR-NOVATOREM-APP with your deployment name and uncomment:
-
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-  <img src="https://YOUR-NOVATOREM-APP.vercel.app/api/spotify?background_color=0d1117&border_color=8B5CF6" alt="Now playing on Spotify" />
-</a>
--->
-
-<sub><em>Card goes live after the novatorem deploy in <a href="./SETUP.md">SETUP.md § Spotify</a> — then it updates automatically, forever.</em></sub>
+<img src="https://novatorem-five-drab.vercel.app/api/orchestrator?background_type=blur_dark&border_color=8B5CF6" alt="Now playing on Spotify" />
 
 </div>
 
