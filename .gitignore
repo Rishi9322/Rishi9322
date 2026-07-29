@@ -1,0 +1,3 @@
+# local helper — never commit credentials tooling or env files
+get-spotify-refresh-token.ps1
+.env
