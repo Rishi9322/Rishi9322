@@ -420,9 +420,9 @@ event stories, product UIs: it's all the same discipline. Notice more. Show less
 
 <br/>
 
-<sub>⌨️ &nbsp;CODING RHYTHM · WAKATIME</sub>
+### ⌨️ &nbsp;Coding Rhythm · WakaTime
 
-<br/><br/>
+<br/>
 
 <!--
   WAKATIME — enable after one-time setup (see SETUP.md § WakaTime).
@@ -432,7 +432,7 @@ event stories, product UIs: it's all the same discipline. Notice more. Show less
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishi9322&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&layout=compact&langs_count=8" alt="WakaTime stats" />
 -->
 
-<sub><em>WakaTime card activates after linking your editor in <a href="./SETUP.md">SETUP.md</a>.</em></sub>
+<em>WakaTime card activates after linking your editor in <a href="./SETUP.md">SETUP.md</a>.</em>
 
 </div>
 

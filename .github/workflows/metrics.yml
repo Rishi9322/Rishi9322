@@ -31,10 +31,9 @@ jobs:
           # Base sections: repositories, stars, followers
           base: header, activity, community, repositories, metadata
 
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          # Achievements & activity plugins removed — they error without a
+          # classic PAT (METRICS_TOKEN). Re-add them after setting the secret
+          # per SETUP.md § Metrics.
 
           # Languages
           plugin_languages: yes
@@ -51,11 +50,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_days: 30
-
-          # Recent activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
 
           # People / followers
           plugin_people: yes
