@@ -291,32 +291,28 @@ event stories, product UIs: it's all the same discipline. Notice more. Show less
 
 <br/><br/>
 
-<!-- ─────────────────────────  PHOTOGRAPHY  ───────────────────────── -->
+<!-- ─────────────────────────  SPOTIFY  ───────────────────────── -->
 
 <div align="center">
 
-## ⟢ &nbsp;Captured Through My Lens
+## ⟢ &nbsp;Now Playing
 
 <br/>
 
-<sub>Photography is my second language. It's where I learned composition, restraint, and how light<br/>changes everything — the same principles I bring back to every interface I design.</sub>
+<sub>Code has a soundtrack. This card updates live with whatever's in my headphones right now.</sub>
 
 <br/><br/>
 
-<!-- Replace these tiles with your own photographs (keep ~600×400 for a clean grid) -->
+<!--
+  SPOTIFY — final step: deploy novatorem to Vercel (see SETUP.md § Spotify),
+  then replace YOUR-NOVATOREM-APP with your deployment name and uncomment:
 
-<table>
-<tr>
-<td align="center"><img src="https://placehold.co/600x400/0d1117/8B5CF6/png?text=STREET" width="100%" alt="Street photography" /><br/><sub><strong>Street</strong> · Mumbai, unscripted</sub></td>
-<td align="center"><img src="https://placehold.co/600x400/0d1117/06B6D4/png?text=NATURE" width="100%" alt="Nature photography" /><br/><sub><strong>Nature</strong> · slow light, no deadlines</sub></td>
-<td align="center"><img src="https://placehold.co/600x400/0d1117/8B5CF6/png?text=EVENTS" width="100%" alt="Event photography" /><br/><sub><strong>Events</strong> · documentation as storytelling</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://placehold.co/600x400/0d1117/06B6D4/png?text=TRAVEL" width="100%" alt="Travel photography" /><br/><sub><strong>Travel</strong> · new places, new frames</sub></td>
-<td align="center"><img src="https://placehold.co/600x400/0d1117/8B5CF6/png?text=PORTRAITS" width="100%" alt="Portrait photography" /><br/><sub><strong>Portraits</strong> · people, honestly</sub></td>
-<td align="center"><img src="https://placehold.co/600x400/0d1117/06B6D4/png?text=%2B+MORE" width="100%" alt="More photography" /><br/><sub><strong>More</strong> · always shooting</sub></td>
-</tr>
-</table>
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+  <img src="https://YOUR-NOVATOREM-APP.vercel.app/api/spotify?background_color=0d1117&border_color=8B5CF6" alt="Now playing on Spotify" />
+</a>
+-->
+
+<sub><em>Card goes live after the novatorem deploy in <a href="./SETUP.md">SETUP.md § Spotify</a> — then it updates automatically, forever.</em></sub>
 
 </div>
 
@@ -432,24 +428,6 @@ event stories, product UIs: it's all the same discipline. Notice more. Show less
 ## ⟢ &nbsp;Off the Clock
 
 <br/>
-
-<sub>🎧 &nbsp;NOW PLAYING</sub>
-
-<br/><br/>
-
-<!--
-  SPOTIFY — enable after one-time setup (see SETUP.md § Spotify).
-  After deploying novatorem to your Vercel account, uncomment and
-  replace YOUR-NOVATOREM-APP with your deployment name:
-
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-  <img src="https://YOUR-NOVATOREM-APP.vercel.app/api/spotify?background_color=0d1117&border_color=8B5CF6" alt="Now playing on Spotify" />
-</a>
--->
-
-<sub><em>Spotify card activates after the 5-minute setup in <a href="./SETUP.md">SETUP.md</a> — it then updates automatically, forever.</em></sub>
-
-<br/><br/><br/>
 
 <sub>⌨️ &nbsp;CODING RHYTHM · WAKATIME</sub>
 

@@ -93,15 +93,6 @@ Stats appear after ~a day of coding activity.
 
 ---
 
-## 7. Photography grid
-
-The six tiles are styled placeholders. To make them yours:
-
-1. Add your photos to the repo, e.g. `assets/street.jpg` (≈600×400, < 1 MB each).
-2. Swap each `placehold.co` URL for `./assets/street.jpg` etc. in the Photography section.
-
----
-
 ## Quick reference — what runs where
 
 | Feature            | Mechanism                          | Needs setup? |
